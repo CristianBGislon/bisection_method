@@ -1,2 +1,2 @@
 # bisection_method
-Bisection Method for solving equations in matlab
+Bisection Method for solving equations with matlab
