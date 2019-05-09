@@ -36,7 +36,7 @@ while ((i <= n)&&(abs(Function(X(i))) > eps))
 end
 %Complete array
 Y(i) = Function(X(i));
-
+X(i)
 %%Plots
 subplot(2,1,1)
 plot(I,Y)
