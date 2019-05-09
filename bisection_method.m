@@ -1,6 +1,6 @@
 clear all
 close all
-
+%Author: Cristian de Biasi Gislon
 %Number of max iterations
 n = 100;  
 %Acceptable error
