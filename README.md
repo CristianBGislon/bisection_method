@@ -1,2 +1,2 @@
 # bisection_method
-Bisection Method for solving linear systems in MATLAB.
+Bisection Method for solving equations in matlab
